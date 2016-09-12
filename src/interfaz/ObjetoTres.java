@@ -84,7 +84,6 @@ public class ObjetoTres extends javax.swing.JFrame {
         });
         jPanel1.add(txtReal1, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 70, 60, -1));
 
-        txtImaginaria1.setText("i");
         txtImaginaria1.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyTyped(java.awt.event.KeyEvent evt) {
                 txtImaginaria1KeyTyped(evt);
@@ -92,7 +91,6 @@ public class ObjetoTres extends javax.swing.JFrame {
         });
         jPanel1.add(txtImaginaria1, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 120, 60, -1));
 
-        txtImaginaria2.setText("i");
         txtImaginaria2.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyTyped(java.awt.event.KeyEvent evt) {
                 txtImaginaria2KeyTyped(evt);

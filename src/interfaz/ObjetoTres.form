@@ -123,9 +123,6 @@
           </Constraints>
         </Component>
         <Component class="javax.swing.JTextField" name="txtImaginaria1">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="i"/>
-          </Properties>
           <Events>
             <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtImaginaria1KeyTyped"/>
           </Events>
@@ -136,9 +133,6 @@
           </Constraints>
         </Component>
         <Component class="javax.swing.JTextField" name="txtImaginaria2">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="i"/>
-          </Properties>
           <Events>
             <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtImaginaria2KeyTyped"/>
           </Events>
